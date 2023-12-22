@@ -16,6 +16,6 @@
     </environments>
 
     <mappers>
-        <mapper class="com.csindex.helper.mapper.DbOperation"/>
+        <mapper class="com.test.helper.mapper.DbOperation"/>
     </mappers>
 </configuration>

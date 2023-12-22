@@ -1,7 +1,7 @@
-package com.csindex.init.components;
+package com.test.init.components;
 
-import com.csindex.utils.json.GsonUtils;
 import com.github.kevinsawicki.http.HttpRequest;
+import io.github.jiawade.tool.utils.GsonUtils;
 import org.springframework.stereotype.Component;
 
 import java.util.List;
