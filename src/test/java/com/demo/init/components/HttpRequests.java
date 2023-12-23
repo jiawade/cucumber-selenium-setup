@@ -1,4 +1,4 @@
-package com.test.init.components;
+package com.demo.init.components;
 
 import com.github.kevinsawicki.http.HttpRequest;
 import io.github.jiawade.tool.utils.GsonUtils;

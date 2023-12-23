@@ -1,4 +1,4 @@
-package com.test;
+package com.demo;
 
 import com.google.common.collect.Lists;
 import io.smart.browser.configuration.impls.ChromeConfiguration;

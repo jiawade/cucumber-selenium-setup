@@ -1,3 +1,4 @@
+@data
 Feature: This is a test feature
 
   Scenario: open google and search something

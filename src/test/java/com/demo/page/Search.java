@@ -1,7 +1,6 @@
-package com.test.page;
+package com.demo.page;
 
-import com.test.init.BaseTest;
-import org.openqa.selenium.By;
+import com.demo.init.BaseTest;
 import org.springframework.stereotype.Component;
 
 @Component

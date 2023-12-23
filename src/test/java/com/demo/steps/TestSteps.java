@@ -1,6 +1,6 @@
-package steps;
+package com.demo.steps;
 
-import com.test.page.Search;
+import com.demo.page.Search;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
