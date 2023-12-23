@@ -62,7 +62,7 @@
         <dependency>
             <groupId>io.github.jiawade</groupId>
             <artifactId>selenium-smart</artifactId>
-            <version>4.9.0</version>
+            <version>4.9.1</version>
         </dependency>
     </dependencies>
 
