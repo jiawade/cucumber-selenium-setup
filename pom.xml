@@ -2,8 +2,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.csindex</groupId>
-    <artifactId>csindex-test-e2e</artifactId>
+    <groupId>com.demo</groupId>
+    <artifactId>selenium</artifactId>
     <version>v1</version>
     <packaging>jar</packaging>
 
@@ -62,7 +62,7 @@
         <dependency>
             <groupId>io.github.jiawade</groupId>
             <artifactId>selenium-smart</artifactId>
-            <version>4.9.1</version>
+            <version>4.9.2</version>
         </dependency>
     </dependencies>
 
