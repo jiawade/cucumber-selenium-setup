@@ -8,8 +8,10 @@ import io.cucumber.java.en.When;
 import org.springframework.beans.factory.annotation.Autowired;
 
 public class TestSteps {
+
     @Autowired
     Search search;
+
     @Given("open google url: {}")
     public void openGoogleUrlHttpsWwwGoogleCom(String url) {
         search.openUrl(url);

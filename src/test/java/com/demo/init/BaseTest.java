@@ -7,16 +7,16 @@ import org.springframework.beans.factory.annotation.Value;
 
 public class BaseTest {
 
-    @Value("portal.url")
+    @Value("${portal.url}")
     private String url;
 
-    @Value("portal.port")
+    @Value("${portal.port}")
     private String  port;
 
-    @Value("portal.username")
+    @Value("${portal.username}")
     private String userName;
 
-    @Value("portal.password")
+    @Value("${portal.password}")
     private String passWord;
 
     protected Scenario scenario;
